@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.64199a27.css",
+    "main.js": "./static/js/main.dc0c41ba.js",
+    "static/media/OurVision.png": "./static/media/OurVision.347dd2fb2367277f3a7e.png",
+    "static/media/img3.png": "./static/media/img3.429d1bea99ed8afce4d7.png",
+    "static/media/img1.png": "./static/media/img1.417c47377c5909b55571.png",
+    "static/media/img2.png": "./static/media/img2.2a9972af40bae513b076.png",
+    "static/media/TheProcess.png": "./static/media/TheProcess.ca11685d9e0eca97dcf0.png",
+    "index.html": "./index.html",
+    "main.64199a27.css.map": "./static/css/main.64199a27.css.map",
+    "main.dc0c41ba.js.map": "./static/js/main.dc0c41ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64199a27.css",
+    "static/js/main.dc0c41ba.js"
+  ]
+}
